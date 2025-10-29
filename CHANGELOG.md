@@ -11,3 +11,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Initial version.
+
+### Changed
+- Update Sync settings to include users and dataset required by A4A.
