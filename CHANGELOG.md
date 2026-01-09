@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Add autoloader check to prevent fatal errors when plugin is activated before composer install.
 - IDC: Add revalidation for IDCs.
 - Initial version.
 
