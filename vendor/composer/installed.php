@@ -13,7 +13,7 @@
         'automattic/jetpack-a8c-mc-stats' => array(
             'pretty_version' => '3.0.5',
             'version' => '3.0.5.0',
-            'reference' => '19f2f4ebee3b5d5c33013fcf8e29097c963c3b93',
+            'reference' => '160c4006b1d6f8481654b291b108c9e4e62dd833',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-a8c-mc-stats',
             'aliases' => array(),
@@ -22,7 +22,7 @@
         'automattic/jetpack-admin-ui' => array(
             'pretty_version' => '0.5.11',
             'version' => '0.5.11.0',
-            'reference' => 'cc9afded4b99d01071ff5f84d2258b122be8c26b',
+            'reference' => 'ddb4508c50372a73e82fa7852f92f9b4488bfc75',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-admin-ui',
             'aliases' => array(),
@@ -31,7 +31,7 @@
         'automattic/jetpack-assets' => array(
             'pretty_version' => '4.3.19',
             'version' => '4.3.19.0',
-            'reference' => '5cc2b0bf1a721fb7f2c598682fd0cd48a9d0846b',
+            'reference' => 'e72ee4dcd2d31ae56efa7c3bd8a8cc3a76801c65',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-assets',
             'aliases' => array(),
@@ -40,7 +40,7 @@
         'automattic/jetpack-autoloader' => array(
             'pretty_version' => '5.0.15',
             'version' => '5.0.15.0',
-            'reference' => 'a83ef21e7bd9caa613332d3e10d707c7ccf992a2',
+            'reference' => 'c8064a63a56541f3551504f27d9e7cdad8658387',
             'type' => 'composer-plugin',
             'install_path' => __DIR__ . '/../automattic/jetpack-autoloader',
             'aliases' => array(),
@@ -49,7 +49,7 @@
         'automattic/jetpack-composer-plugin' => array(
             'pretty_version' => '4.0.5',
             'version' => '4.0.5.0',
-            'reference' => '60942e033fb65530cb397e49877ab6e8f7b8cb25',
+            'reference' => 'c9e7297074778ae3869b99d78f026642e8362f82',
             'type' => 'composer-plugin',
             'install_path' => __DIR__ . '/../automattic/jetpack-composer-plugin',
             'aliases' => array(),
@@ -58,7 +58,7 @@
         'automattic/jetpack-config' => array(
             'pretty_version' => '3.1.1',
             'version' => '3.1.1.0',
-            'reference' => '58ad61ddcedaa0e5eb47908b510a68e9d4bca40b',
+            'reference' => '3ca83c6b8665c48376af9f9e216a00f40fad646b',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-config',
             'aliases' => array(),
@@ -67,7 +67,7 @@
         'automattic/jetpack-connection' => array(
             'pretty_version' => '6.20.2-alpha.1768323153',
             'version' => '6.20.2.0-alpha1768323153',
-            'reference' => 'de2825c5e269e25bc2e8f3f7177e0828aa596fc8',
+            'reference' => 'f55fe0f313743475f37db9c7698be96af45bbbd9',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-connection',
             'aliases' => array(),
@@ -76,7 +76,7 @@
         'automattic/jetpack-constants' => array(
             'pretty_version' => '3.0.8',
             'version' => '3.0.8.0',
-            'reference' => '0ea9a760f396a002c3773bdf926bda44428aa428',
+            'reference' => 'e680dc5a02b8a3cb85a79130d4a59be77a7edcca',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-constants',
             'aliases' => array(),
@@ -85,7 +85,7 @@
         'automattic/jetpack-ip' => array(
             'pretty_version' => '0.4.10',
             'version' => '0.4.10.0',
-            'reference' => '0ee05064ee2f1b3daf5f8c51c29ec89b89ca3e29',
+            'reference' => '7638cb21bad249fa8767a409d5c117c67f7d4514',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-ip',
             'aliases' => array(),
@@ -94,7 +94,7 @@
         'automattic/jetpack-password-checker' => array(
             'pretty_version' => '0.4.9',
             'version' => '0.4.9.0',
-            'reference' => '37d7f928efa2b51dd430d18e653ee11206d44181',
+            'reference' => '3496d00894fc859bddbf9c8640c7fa2121eb8357',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-password-checker',
             'aliases' => array(),
@@ -103,7 +103,7 @@
         'automattic/jetpack-redirect' => array(
             'pretty_version' => '3.0.9',
             'version' => '3.0.9.0',
-            'reference' => 'ac62a58934541a2dc8a6c5b1848d0d96a32f0417',
+            'reference' => 'd684d593f9848c406b25945103dc8d21012f69b4',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-redirect',
             'aliases' => array(),
@@ -112,7 +112,7 @@
         'automattic/jetpack-roles' => array(
             'pretty_version' => '3.0.8',
             'version' => '3.0.8.0',
-            'reference' => '3de7ab7149aaecfcfcb336f19a82ec64360e3c5e',
+            'reference' => '0e2405842c4a00714a1df5fbcb22a5d12e87328d',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-roles',
             'aliases' => array(),
@@ -121,16 +121,16 @@
         'automattic/jetpack-status' => array(
             'pretty_version' => '6.1.2',
             'version' => '6.1.2.0',
-            'reference' => '0c0a1c6de98ade2f9b7ca496df7b4b11b8322168',
+            'reference' => '644b5fd2efba1ca272b23b31339c88af0ed782ee',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-status',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'automattic/jetpack-sync' => array(
-            'pretty_version' => '4.25.0-alpha.1768315626',
-            'version' => '4.25.0.0-alpha1768315626',
-            'reference' => '5c5b2b5dec892405b0c106fdbf337cb68a018b70',
+            'pretty_version' => '4.25.0-alpha.1768386644',
+            'version' => '4.25.0.0-alpha1768386644',
+            'reference' => '66067a2edbf43bb58753516a183c90ff0b7d3b0a',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-sync',
             'aliases' => array(),
