@@ -17,3 +17,6 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 - Update Sync settings to include users and dataset required by A4A.
+
+### Removed
+- General: Update minimum WordPress version to 6.8.
