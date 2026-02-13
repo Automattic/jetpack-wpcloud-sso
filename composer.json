@@ -12,7 +12,7 @@
 		"automattic/jetpack-sync": "^4.27.0"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^6.0.14-alpha"
+		"automattic/jetpack-changelogger": "^6.0.14"
 	},
 	"autoload": {
 		"classmap": [
