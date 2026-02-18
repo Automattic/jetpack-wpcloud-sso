@@ -9,7 +9,7 @@
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.1",
 		"automattic/jetpack-connection": "^7.1.1-alpha",
-		"automattic/jetpack-sync": "^4.27.0"
+		"automattic/jetpack-sync": "^4.27.1-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^6.0.14"
