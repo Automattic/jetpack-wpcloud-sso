@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Initial version.
 
 ### Changed
+- Remove header border-bottom from the admin page for a cleaner unified header appearance.
 - Update package dependencies.
 - Update Sync settings to include users and dataset required by A4A.
 
