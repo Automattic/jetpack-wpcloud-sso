@@ -15,7 +15,6 @@ This is an alpha version! The changes listed here are not final.
 - Initial version.
 
 ### Changed
-- Comment: Add Tracking to Jetpack upsell link.
 - Remove header border-bottom from the admin page for a cleaner unified header appearance.
 - Update design of the sidebar upsell.
 - Update package dependencies.
