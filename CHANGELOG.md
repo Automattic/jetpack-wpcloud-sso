@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Initial version.
 
 ### Changed
+- Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 - Remove header border-bottom from the admin page for a cleaner unified header appearance.
 - Tested up to WordPress 7.0.
 - Update design of the sidebar upsell.
