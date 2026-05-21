@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Remove header border-bottom from the admin page for a cleaner unified header appearance.
 - Tested up to WordPress 7.0.
 - Update design of the sidebar upsell.
+- Updated package dependencies.
 - Update package dependencies.
 - Update Sync settings to include users and dataset required by A4A.
 
