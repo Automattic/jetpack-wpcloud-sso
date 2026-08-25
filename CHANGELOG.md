@@ -29,6 +29,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Removed
 - General: Update minimum WordPress version to 6.8.
+- Updated PHP version requirements to PHP 7.4 or newer.
 
 ### Fixed
 - Admin Page: Restore border on header component.
