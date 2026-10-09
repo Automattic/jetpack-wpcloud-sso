@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add autoloader check to prevent fatal errors when plugin is activated before composer install.
+- Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
 - IDC: Add revalidation for IDCs.
 - Initial version.
 
