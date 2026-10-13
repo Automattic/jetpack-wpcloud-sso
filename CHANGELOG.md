@@ -34,3 +34,4 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Admin Page: Restore border on header component.
+- Connection: Translate the Connectors card's text on sites that don't use English.
