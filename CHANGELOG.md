@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Connection: Link the connection owner's name on the Connectors card to their profile, and update the card without reloading the page when a non-owner disconnects their account.
+
 ## 0.1.0 - 2026-10-15
 ### Added
 - Add autoloader check to prevent fatal errors when plugin is activated before composer install. [#46489]
