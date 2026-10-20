@@ -4,12 +4,12 @@
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-assets": "^5.0.13",
-		"automattic/jetpack-autoloader": "^6.0.1",
-		"automattic/jetpack-composer-plugin": "^5.0.0",
-		"automattic/jetpack-config": "^4.0.0",
-		"automattic/jetpack-connection": "^9.12.1",
-		"automattic/jetpack-sync": "^5.4.2"
+		"automattic/jetpack-assets": "^5.0.14-alpha",
+		"automattic/jetpack-autoloader": "^6.0.2-alpha",
+		"automattic/jetpack-composer-plugin": "^5.0.1-alpha",
+		"automattic/jetpack-config": "^4.0.1-alpha",
+		"automattic/jetpack-connection": "^9.12.2-alpha",
+		"automattic/jetpack-sync": "^5.4.3-alpha"
 	},
 	"autoload": {
 		"classmap": [
@@ -21,7 +21,6 @@
 	"prefer-stable": true,
 	"extra": {
 		"autorelease": true,
-		"autotagger": true,
 		"mirror-repo": "Automattic/jetpack-wpcloud-sso",
 		"release-branch-prefix": "jetpack-wpcloud-sso",
 		"changelogger": {
@@ -35,6 +34,6 @@
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
 		},
-		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_jetpack_wpcloud_ssoⓥ0_1_0"
+		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_jetpack_wpcloud_ssoⓥ0_1_1_alpha"
 	}
 }
