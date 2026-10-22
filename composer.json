@@ -8,7 +8,7 @@
 		"automattic/jetpack-autoloader": "^6.0.2",
 		"automattic/jetpack-composer-plugin": "^5.0.1",
 		"automattic/jetpack-config": "^4.0.1",
-		"automattic/jetpack-connection": "^9.13.1-alpha",
+		"automattic/jetpack-connection": "^9.14.0-alpha",
 		"automattic/jetpack-sync": "^5.4.3"
 	},
 	"autoload": {
@@ -34,6 +34,6 @@
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
 		},
-		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_jetpack_wpcloud_ssoⓥ0_1_1_alpha"
+		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_jetpack_wpcloud_ssoⓥ0_2_0_alpha"
 	}
 }

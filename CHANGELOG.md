@@ -5,11 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 0.1.1-alpha - unreleased
+## 0.2.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Connection: Ask for confirmation before disconnecting your user account, and offer to transfer ownership first when you own the connection.
 - Connection: Link the connection owner's name on the Connectors card to their profile, and update the card without reloading the page when a non-owner disconnects their account.
 - Connection: When disconnecting the site from the Connectors card, list the plugins that will stop working and link to help.
 

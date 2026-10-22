@@ -3,7 +3,7 @@
  *
  * Plugin Name: Jetpack_WPCloud_SSO
  * Description: Hack-n-slash plugin.
- * Version: 0.1.1-alpha
+ * Version: 0.2.0-alpha
  * Author: Automattic
  * Author URI: https://jetpack.com/
  * License: GPLv2 or later
