@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Connection: Show connection errors on the Connectors card, and keep showing the connection owner when their account connection breaks.
+
 ### Changed
 - Connection: Ask for confirmation before disconnecting your user account, and offer to transfer ownership first when you own the connection.
 - Connection: Link the connection owner's name on the Connectors card to their profile, and update the card without reloading the page when a non-owner disconnects their account.
