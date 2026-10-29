@@ -38,7 +38,7 @@ This is an alpha version! The changes listed here are not final.
 - Remove unneeded development and documentation files from the published plugin. [#49014]
 - Tested up to WordPress 7.1. [#48114] [#51370]
 - Update design of the sidebar upsell. [#47909]
-- Updated package dependencies. [#48735] [#46785] [#47021] [#47505] [#48064]
+- Updated package dependencies. [#46785] [#47021] [#47505] [#48064] [#48735]
 - Update Sync settings to include users and dataset required by A4A. [#45685]
 
 ### Fixed
