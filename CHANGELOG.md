@@ -19,6 +19,9 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Use one wording on the Connectors screen for the consent notice shown before connecting, for Offline Mode, and for the ownership lock.
 - Connection: When disconnecting the site from the Connectors card, list the plugins that will stop working and link to help.
 
+### Fixed
+- Connection: Show connection owner names containing characters like & correctly.
+
 ## 0.1.0 - 2026-10-15
 ### Added
 - Add autoloader check to prevent fatal errors when plugin is activated before composer install. [#46489]
