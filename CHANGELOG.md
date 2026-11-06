@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Show a clear message when connecting the site to WordPress.com from the Connectors card fails, instead of WordPress.com's raw error text.
 - Connection: Use one wording on the Connectors screen for the consent notice shown before connecting, for Offline Mode, and for the ownership lock.
 - Connection: When disconnecting the site from the Connectors card, list the plugins that will stop working and link to help.
+- Refer to Secure Sign On as "WordPress.com login" in its settings section and on the Users and Add New User screens.
 
 ### Fixed
 - Connection: Show connection owner names containing characters like & correctly.
