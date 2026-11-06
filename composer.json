@@ -8,8 +8,8 @@
 		"automattic/jetpack-autoloader": "^6.0.3",
 		"automattic/jetpack-composer-plugin": "^5.0.1",
 		"automattic/jetpack-config": "^4.0.1",
-		"automattic/jetpack-connection": "^9.17.0-alpha",
-		"automattic/jetpack-sync": "^5.5.0-alpha"
+		"automattic/jetpack-connection": "^9.17.0",
+		"automattic/jetpack-sync": "^5.5.0"
 	},
 	"autoload": {
 		"classmap": [
