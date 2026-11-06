@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Connection: Show connection owner names containing characters like & correctly.
+- Show the login form instead of a fatal error when the login URL carries a malformed `redirect_to` parameter.
 
 ## 0.1.0 - 2026-10-15
 ### Added
