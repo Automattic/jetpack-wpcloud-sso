@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Fixed
+- Connection: Keep the progress indicator on screen after clicking Restore Connection until the redirect to WordPress.com.
 - Connection: Show connection owner names containing characters like & correctly.
 - Show the login form instead of a fatal error when the login URL carries a malformed `redirect_to` parameter.
 
