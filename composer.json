@@ -4,11 +4,11 @@
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-assets": "^5.0.20",
+		"automattic/jetpack-assets": "^5.0.21",
 		"automattic/jetpack-autoloader": "^6.0.4",
 		"automattic/jetpack-composer-plugin": "^5.0.1",
 		"automattic/jetpack-config": "^4.0.1",
-		"automattic/jetpack-connection": "^9.18.3-alpha",
+		"automattic/jetpack-connection": "^9.18.3",
 		"automattic/jetpack-sync": "^5.6.0"
 	},
 	"autoload": {
